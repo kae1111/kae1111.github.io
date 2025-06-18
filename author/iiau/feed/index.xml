@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>iiau &#8211; IIAU-LAB</title>
+	<atom:link href="http://10.7.39.200/author/iiau/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://kae1111.github.io/</link>
+	<description>大连理工大学智能图像分析实验室</description>
+	<lastBuildDate>Sun, 12 Jun 2022 05:59:03 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>6篇论文被CVPR 2022 接收</title>
+		<link>/https://kae1111.github.io/2022/03/31/iiau3pianlunwenbeicvpr2022jieshou/</link>
+		
+		<dc:creator><![CDATA[iiau]]></dc:creator>
+		<pubDate>Thu, 31 Mar 2022 08:02:00 +0000</pubDate>
+				<category><![CDATA[中文新闻]]></category>
+		<guid isPermaLink="false">http://10.7.52.67:8000/?p=1077</guid>
+
+					<description><![CDATA[张鹏宇同学的论文：Visible-Thermal UAV Tracking: A Large-Sca&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>张鹏宇同学的论文：Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline。</p>
+
+
+
+<p>庞有伟同学的论文：Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection。</p>
+
+
+
+<p>贾旭老师的论文：TimeReplayer: Unlocking the Potential of Event Cameras for Video Interpolation及Look Back and Forth: Video Super-Resolution with Explicit Temporal Difference Modeling。</p>
+
+
+
+<p>王一帆老师的论文：Multi-Source Uncertainty Mining for Deep Unsupervised Saliency Detection。</p>
+
+
+
+<p>刘帅同学的论文： Multi-Object Tracking Meets Moving UAV。</p>
+
+
+
+<p>祝贺以上同学和老师！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>2篇论文被 AAAI 2022 接收</title>
+		<link>/https://kae1111.github.io/2022/02/22/iiau2pianlunwenbeiaaai2022jieshou/</link>
+		
+		<dc:creator><![CDATA[iiau]]></dc:creator>
+		<pubDate>Tue, 22 Feb 2022 08:02:00 +0000</pubDate>
+				<category><![CDATA[中文新闻]]></category>
+		<guid isPermaLink="false">http://10.7.52.67:8000/?p=1075</guid>
+
+					<description><![CDATA[赵晓琦同学的论文：Self-Supervised Pretraining for RGB-D Sal&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>赵晓琦同学的论文：Self-Supervised Pretraining for RGB-D Salient Object Detection。</p>
+
+
+
+<p>李德状同学的论文：You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation。</p>
+
+
+
+<p>祝贺两位同学！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>7篇论文被ICCV 2021接收</title>
+		<link>/https://kae1111.github.io/2021/10/11/iiau7pianlunwenbeiiccv2021jieshou/</link>
+		
+		<dc:creator><![CDATA[iiau]]></dc:creator>
+		<pubDate>Mon, 11 Oct 2021 08:01:00 +0000</pubDate>
+				<category><![CDATA[中文新闻]]></category>
+		<guid isPermaLink="false">http://10.7.52.67:8000/?p=1073</guid>
+
+					<description><![CDATA[曾昱同学的论文：CR-Fill: Generative Image Inpainting with &#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>曾昱同学的论文：CR-Fill: Generative Image Inpainting with Auxiliary Contextual Reconstruction。</p>
+
+
+
+<p>颜斌同学的论文：Learning Spatio-Temporal Transformer for Visual Tracking。</p>
+
+
+
+<p>朴永日老师的论文：MFNet: Multi-filter Directive Network for Weakly Supervised Salient Object Detection。</p>
+
+
+
+<p>张淼老师的论文DCFNet: Dynamic Context-Sensitive Filtering Network for Video Salient Object Detection。</p>
+
+
+
+<p>王立君老师的论文：Can Scale-Consistent Monocular Depth Be Learned in a Self-Supervised Scale-Invariant Manner? </p>
+
+
+
+<p>代克楠同学的论文：Video Annotation for Visual Tracking via Selection and Refinement。</p>
+
+
+
+<p>杨澍同学的论文：Learning Motion-Appearance Co-Attention for Zero-Shot Video Object Segmentation。</p>
+
+
+
+<p>祝贺以上同学和老师！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>9篇论文被CVPR 2021接收</title>
+		<link>/https://kae1111.github.io/2021/06/19/iiau9pianlunwenbeicvpr2021jieshou/</link>
+		
+		<dc:creator><![CDATA[iiau]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 08:01:00 +0000</pubDate>
+				<category><![CDATA[中文新闻]]></category>
+		<guid isPermaLink="false">http://10.7.52.67:8000/?p=1071</guid>
+
+					<description><![CDATA[陈鑫同学的论文：Transformer Tracking。 颜斌同学的论文：Alpha-Refine&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>陈鑫同学的论文：Transformer Tracking。</p>
+
+
+
+<p>颜斌同学的论文：Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation及LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search。</p>
+
+
+
+<p>赵文达老师的论文：Self-generated Defocus Blur Detection via Dual Adversarial Discriminators。</p>
+
+
+
+<p>黄涛同学的论文：Neighbor2Neighbor: Self-Supervised Denoising from Single Noisy Image。</p>
+
+
+
+<p>贾旭老师的论文：Multi-Target Domain Adaptation with Collaborative Consistency Learning。</p>
+
+
+
+<p>冯广同学的论文：Encoder Fusion Network with Co-Attention Embedding for Referring Image Segmentation。</p>
+
+
+
+<p>季伟同学的论文：Calibrated RGB-D Salient Object Detection。</p>
+
+
+
+<p>刘学虎同学的论文：Watching You: Global-guided Reciprocal Learning for Video-based Person Re-identification。</p>
+
+
+
+<p>祝贺以上同学和老师！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>IIAU蝉联四年VOT冠军</title>
+		<link>/https://kae1111.github.io/2021/01/10/iiauchanliansinianvotguanjun/</link>
+		
+		<dc:creator><![CDATA[iiau]]></dc:creator>
+		<pubDate>Sun, 10 Jan 2021 08:00:00 +0000</pubDate>
+				<category><![CDATA[中文新闻]]></category>
+		<guid isPermaLink="false">http://10.7.52.67:8000/?p=1067</guid>
+
+					<description><![CDATA[2020年夏天，由计算机视觉顶级会议 ECCV 联合举办的视觉目标跟踪国际竞赛 VOT2020落下帷&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>2020年夏天，由计算机视觉顶级会议 ECCV 联合举办的视觉目标跟踪国际竞赛 VOT2020落下帷幕。大连理工大学<strong>卢湖川教授</strong>和<strong>王栋教授</strong>带领的<strong>IIAU实验室</strong>，同时斩获长时、实时和深度三个赛道冠军，分别由大连理工大学硕士生代克楠、严彬、王英明获得。</p>
+
+
+
+<p>这已是IIAU团队连续第四年在VOT取得冠军——VOT2019由硕士生代克楠取得长时赛道冠军，VOT2018由硕士张允华取得长时赛道冠军，VOT2017由博士孙冲取得公开组第一名。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img width="154" height="239" src="http://10.7.146.193:8000/wp-content/uploads/2022/04/vot4-1.png" alt="" class="wp-image-1079"/></figure></div>
+
+
+<p>Visual-Object-Tracking Challenge (VOT)被视为视觉跟踪领域最难的竞赛，远远超过了其他数据集。VOT评测序列每年都会更新，且标注精度也逐年提高。因此，每一届都会有当时顶尖的追踪算法在VOT上一展拳脚。那么，IIAU实验室是如何实现从2017年至今，每一年都能在激烈的比拼中胜出？</p>
+
+
+
+<p>在本次的极市学者访谈，我们与IIAU实验室的引领者——卢湖川教授，进行了深度的沟通。关于IIAU实验室与计算机视觉科研的故事，将在下文徐徐展开。<em><strong>01</strong></em></p>
+
+
+
+<p>竞赛作为练兵场</p>
+
+
+
+<p>卢湖川教授团队一直深耕于目标跟踪领域的相关研究。多年前，在Online Object Tracking Benchmark(OTB)上，卢教授团队有两个方法一直稳居第二位和第三位。近年来，随着如VOT这样的国际竞赛在国内逐渐兴起，越来越多的学者开始参与其中。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" width="1024" height="520" src="http://10.7.146.193:8000/wp-content/uploads/2022/04/vot4-2-1024x520.jpg" alt="" class="wp-image-1081" srcset="/https://kae1111.github.io/wp-content/uploads/2022/04/vot4-2-1024x520.jpg 1024w, /https://kae1111.github.io/wp-content/uploads/2022/04/vot4-2-300x152.jpg 300w, /https://kae1111.github.io/wp-content/uploads/2022/04/vot4-2-768x390.jpg 768w, /https://kae1111.github.io/wp-content/uploads/2022/04/vot4-2.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p>图注：王一帆（左一）、卢湖川（左二）与王栋（左三）</p>
+
+
+
+<p>“既然我们一直在做目标跟踪，”卢教授说，“那么就有必要去竞赛场上练练兵，用公平公开的测试，来对我们的算法性能进行一次全面的考验。”</p>
+
+
+
+<p>因此，从2017年开始，在每年3月份ICCV/ECCV投稿结束后，卢湖川教授就会带领着他的IIAU实验室参加一年一度的VOT竞赛。第一年，IIAU实验室就取得了非常卓越的成绩：在VOT2017上，博士生孙冲同学的算法LSART击败了牛津大学、卡耐基梅隆大学、微软亚洲研究院等国际著名AI实验室和知名院校，获得了公开组第一名。</p>
+
+
+
+<p>回想四年IIAU实验室参加VOT的经历，卢湖川教授对2018年的那一次比赛印象尤为深刻：</p>
+
+
+
+<p>“当时所有过往的视觉目标跟踪方法都聚焦于短时方向，而当VOT提出长时目标跟踪这一问题后，我们觉得，现实世界中的确需要长时跟踪。因此，这个问题是非常重要的，我们就先瞄准了这一点。”</p>
+
+
+
+<p>长时赛道（Long-term Challenge）的每个视频在2000帧至2万帧左右，被跟踪目标频繁离开视野，然后再次出现。因此，要求跟踪算法必须具有判断目标是否在当前帧出现和全图搜索目标的能力。作为一个新的研究问题，IIAU实验室为这一问题提出了很好的解决方案：MBMD，用一个基于匹配的回归网络和一个基于分类的验证网络，使得Detection和Tracking的融合机制得到了较强的提升。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" width="725" height="1024" src="http://10.7.146.193:8000/wp-content/uploads/2022/04/vot4-3-725x1024.jpg" alt="" class="wp-image-1082" srcset="/https://kae1111.github.io/wp-content/uploads/2022/04/vot4-3-725x1024.jpg 725w, /https://kae1111.github.io/wp-content/uploads/2022/04/vot4-3-212x300.jpg 212w, /https://kae1111.github.io/wp-content/uploads/2022/04/vot4-3-768x1085.jpg 768w, /https://kae1111.github.io/wp-content/uploads/2022/04/vot4-3.jpg 1080w" sizes="(max-width: 725px) 100vw, 725px" /></figure></div>
+
+
+<p>图注：MBMD算法&nbsp;VOT Long-term Challenge&nbsp;获奖证书</p>
+
+
+
+<p>MBMD算法在2018年获得了首届VOT Long-term Challenge的冠军。值得一提的是，凭借这个比赛的冠军以及ECCV的论文，MBMD的第一作者、 IIAU实验室的硕士生张允华同学，在颁奖仪式上做完大会报告演讲之后，英国牛津大学和荷兰阿姆斯特丹大学相关研究组都给了她博士全额奖学金，人工智能领域最好的研究院之一FAIR（Facebook Artificial Intelligence Research）也邀请她去工作。</p>
+
+
+
+<p>不仅本身的难度高，VOT之所以被视为视觉跟踪领域最难的竞赛，还有一个重要原因是VOT参与角逐者高手如云，它不仅聚集了如牛津大学等来自全球知名院校，还包括微软亚洲研究院等国际著名实验室。</p>
+
+
+
+<p>那么，为什么IIAU实验室能在每一年都取得冠军？卢教授在本次访谈中为我们分享了一些经验：</p>
+
+
+
+<p>“的确，在这几年的竞赛中，有越来越多厉害的团队融入进来。他们有非常强的算力，有非常优秀的学生，这使得竞赛的难度大大提升了。但这其实是一件很好的事情。因为在这些厉害的团队融入进来之后，他们做出了很多优秀的成果。而这些成果后续会发表成论文，这些论文则会推动目标跟踪领域的发展。那么，我们的学生也能学习到他们的成功经验，并能站在他们的高度继续提升。这可以说是相辅相成的。”</p>
+
+
+
+<p>在参加视觉竞赛方面，IIAU实验室非常注重布局。以今年取得三个赛道冠军来举例，卢教授说：“我们希望，所有的赛道都有我们的学生去参与。同时，我们实验室参与竞赛的选手，会由我们的一些非常有经验的年轻老师及博士后来带领，这对学生们的帮助是很显著的。”</p>
+
+
+
+<p>卢湖川教授要求每一位参加比赛的学生们在各个赛道都能融会贯通，能够互相借力，从而使得不同赛道能够有共通的地方。如果只做一个赛道，做的人少，那每进一步都会很困难。而IIAU的同学们在不同赛道中做出来的效果，或许也能应用到其他赛道中去。通过这种方式，就体现出了团队的优势。早期参加VOT竞赛时，卢教授团队是以Long-term Challenge为基础，设计了一个检测加跟踪的较好框架，使得算法稳定又快速。此后，IIAU实验室每年都会在原来的基础上，提出新的想法与思路，通过这种方式，才得以蝉联Long-term Challenge冠军。其他赛道也同步发力，通过方方面面的努力，才取得了耀眼的成果。谈到IIAU实验室在参加VOT中所获得的成长与经验，卢教授说：</p>
+
+
+
+<p>像VOT这样的视觉竞赛，让我们的学生得到了快速的提升。无论是老生还是新生，都能在参与竞赛的过程中快速掌握视觉跟踪方向的关键技能，同时对于论文工作也有很大的帮助，这一点是很重要的。</p>
+
+
+
+<p>在深度学习时代，大家更关注算法的性能，如果性能上不去，大家就会觉得这篇论文或算法还欠缺了许多，而视觉竞赛就特别关注算法的性能。一个好的工作，在视觉竞赛中需要达到一个较高的性能才有可能发表下来，被大家所熟知。那么，从这个角度来说，视觉竞赛对于学生快速迭代、提升基本技能，起到了很好的促进的作用。</p>
+
+
+
+<p>其次，当有了视觉竞赛这种刷榜之后，特别是VOT竞赛，我们看到在它不同的赛道出来之后，视觉算法开始更多地向着真正的实用性去发展。之前学术界一直关注的都是Shot-term方向，而VOT则提出了RGB-T、RGB-D和Long-term方向。这些其实都代表着工业界在不同方面的需求。而学术界需要像VOT这类围绕工业界需求所发起的竞赛来作为牵引，使得学术界能够迈向实用。现在有很多工业界的公司，如果他们有某些需求，他们就可以设立相应的竞赛，通过一些实际问题对竞赛进行设定。那么这些竞赛就会牵引着学者们对这些实际问题感兴趣，从而能够让学术界帮助工业界来解决实际的问题。而学者们也能通过这种方式获得很多成就感和灵感启发。因此可以说，视觉竞赛让我们学术届和工业界前所未有的紧密融合，让学生们能够真正的学以致用。从这个角度而言，视觉竞赛的作用是巨大的，它为学生提高综合能力提供了很好的平台和机会。</p>
+
+
+
+<p><em><strong>02</strong></em></p>
+
+
+
+<p>IIAU实验室的成功之路今年6月16日，计算机视觉和模式识别领域的世界顶级学术会议 CVPR Virtual 2020正式在线上拉开序幕，卢湖川教授和王栋教授指导的论文“High-Performance Long-Term Tracking with Meta-Updater”荣获CVPR2020最佳论文提名。此外，IIAU实验室今年共有8篇论文被CVPR2020录用。CVPR2020最佳论文提名的论文一作是IIAU实验室的硕士生代克楠，这并非是他加入IIAU实验室后获得的唯一一项荣誉，在2019年，代克楠的第一篇论文就被录取为CVPR2019的Oral论文，并背靠背地摘下了VOT2019和VOT2020长时赛道的桂冠，在今年，他入选了华为的天才少年计划，成为东北地区唯一入选者。“代克楠同学在保送到我们实验室的时候就表现出了对目标跟踪算法的钻研精神以及强烈的上进心，也很有自己的节奏，”卢教授说，“刚进入实验室时，他主要是和师姐张允华，也就是VOT2018冠军获得者进行合作。他在张允华的帮助下快速地学到了目标跟踪的基础知识和技能。后来联合参加VOT，代克楠同学在这个工程中得到了锻炼与提升。在张允华毕业后，他蝉联了2次Long-term Challenge冠军。”IIAU实验室高手云集，而互帮互助，老生带新生的方式，是IIAU实验室成功的秘籍。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" width="1024" height="520" src="http://10.7.146.193:8000/wp-content/uploads/2022/04/vot4-4-1024x520.jpg" alt="" class="wp-image-1084" srcset="/https://kae1111.github.io/wp-content/uploads/2022/04/vot4-4-1024x520.jpg 1024w, /https://kae1111.github.io/wp-content/uploads/2022/04/vot4-4-300x152.jpg 300w, /https://kae1111.github.io/wp-content/uploads/2022/04/vot4-4-768x390.jpg 768w, /https://kae1111.github.io/wp-content/uploads/2022/04/vot4-4.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p>图注：王栋老师在指导学生<br>在卢湖川教授的团队，每一位新加入的学生，都会得到非常用心的培养。“每一个菜鸟都是带着梦想来的，所以我们很重视团队新成员的培养。”卢教授说。在前期，会有卢老师进行亲自指导，并给学生们布置作业。通过不断的迭代和短期目标的设定，来提升学生们的能力，也让他们时时刻刻都不能懈怠。如此一来，经过一年左右的培养，学生们的能力就会得到非常明显的提升。同时，在这一培养过程，还会看重学术研究兴趣的培养。很多学生在经过初期的培养后，就在心中立志要像师兄师姐一样发表顶级论文，并将学术任务当成自己的事情来完成，这样就算已经上步入正轨了。此时老师们的所承担的管理角色就会淡化，更多的则是在学术上跟学生们进行探讨，在学术方向上指引他们不断前行。IIAU实验室每一届都会有非常优秀的学生，这些厉害的学生就会成为新生们的榜样与动力。<strong></strong>在解决实际问题的时候，新生和老生会在卢教授的组织下组成一个团队，共同进行研究。通过这种方式，尽可能的激发所有人的潜能。虽然发表学术论文是科研的重要目标，但是在科研的过程中，困难和瓶颈也是每个人都或许有过的一份科研经历。不仅如此，目前很多大企业招聘都十分看重求职者顶会论文发表情况，间接给了在校学生不少的压力。因此，卢教授也会帮助学生们对心态进行调整。“学生们都很不容易。大家都是想上进的，但由于前进路线的不同，如果遭遇研究过程中不顺利，可能会导致他对于自己能力方面的自信心会有所不同。因此作为老师，就有必要为他们设计一条快速成长的道路。”卢教授说，<strong>“</strong>实际上，并不是发表论文的学生就是最优秀的，有很多没有发表论文的学生也非常优秀。只是由于论文是由reviewer来进行评阅的，那么不同领域的reviewer的评阅风格不同。<strong></strong>有些同学的论文可能不受reviewer认可，所以没有发表出来。但这并不代表他们不优秀。而企业在挑选人才的时候也需要考虑这些因素。”因此，在IIAU实验室，最近发生了一些变化。适合做学术研究的学生，他就在发表论文方面去努力。如果努力不成功，老师们就会让他参与一些和企业合作的真实项目，并通过项目来锻炼学生的能力。有很多学生在项目相关的深度学习技术上是非常强的，虽然他们可能没有发表论文，但是也能在项目上找到自己的兴趣和自信。那么这就是最适合他们的道路。因此，在IIAU实验室，学生的多样化发展是一直被提倡的。只要学生们在研究在读期间过得充实，无论是学术研究方面，还是在项目方面，最好是两个方面都能够有所涉足，那么学生的自信心就会不断增强，在未来应聘之时也会有更多的砝码。<strong></strong></p>
+
+
+
+<p><em><strong>03</strong></em></p>
+
+
+
+<p>与企业合作共赢在工业界，IIAU实验室也非常受到国内外同行的关注和重视，先后与日本Omron公司、美国Adobe、Microsoft公司和中国华为、百度、阿里、腾讯、OPPO等国内外知名企业进行过项目合作。目前，IIAU实验室与企业的合作共有两种形式。第一种是派学生到公司里去做intern，一般实习时长为三个月，目标就是发一篇顶级会议的论文。第二种则是远程的，由公司远程以及老师联合指导学生，每周会有定期的网络会议，以快速推进项目的进展。在这种交流的过程之中，学生们的学术水平和英语技能都能得到较好的提升。在和企业合作这方面，学生们都有很大的热情和动力。通过这两种方式的实习，IIAU的成员们对需求变得非常清晰，对项目的理解很深刻，再加上自身的能动性和老师的指导，和公司达成了一次又一次的成功合作。从企业层面而言，既得到了问题的解决，又获得了员工的候选人。而从学生层面而言，在实验室中，有时候总会有一些懈怠，而在公司中则能提高做事的效率，也能得到一个非常快速的提升。同时，能够帮助工业界需求的快速传递，使得IIAU团队能加进布局针对需求方面的学术研究和人才储备，也积累了很多的经验，并了解掌握从学术到工业界的全面知识。这对于公司和学校而言是一种双赢。</p>
+
+
+
+<p><em><strong>04</strong></em></p>
+
+
+
+<p>上进心是优秀的前提卢湖川教授现已桃李满天下，而IIAU实验室也在源源不断的向学术界和工业界输送人工智能领域的优秀人才。如何成为IIAU团队的一员？卢教授对加入IIAU的学生们会有哪些期待？这些问题成为了许多求学者心中的疑惑。<br>“我们对学生的要求并没有那么高，只要有较强的上进心就足够了。”卢教授说，“做计算机视觉这一行其实门槛并不高，虽然对编程、数学以及英语有一些要求，但这其实是绝大多数都具备的能力<strong>。</strong>因此，最核心的问题就是这个学生有没有上进心，想不想让自己变得优秀。”在每次保研的过程中，有很多表现不错的学生加入到了其他更好的学校，卢教授并没有把这些事情放在心上，而是会祝福他们求学顺利并收获多彩的人生经历。虽然卢老师也希望他们能加入自己的实验室，但他觉得学习成绩不能代表全部，也就是说，IIAU并不是只以学习成绩而论的，而是更看重学生在学术方面或者工程实践方面有自驱力，这样的学生才是最好的学生。再加上老师们细心的培养和指导，加入IIAU的新成员就会在团队中迅速的成长。事实上，加入到IIAU实验室的学生，个别可能是年级的第一名或第二名，但绝大多数都在保研成绩中处于中等位置。但是这些学生在加入IIAU后，通过卢教授和IIAU实验室老师们的培养与激发，大家都变得积极上进起来。前面跑的快的人会激励后面的人更努力，然后大家一起进步。在IIAU实验室，无论是本科生，还是硕士生，博士生，都能得到最好的培养。“来IIAU的学生们都是带着梦想来的，老师最大的责任就是帮助他们实现梦想和追求更大的梦想。”卢教授说，“每一位加入IIAU的硕士生都会被当成博士生来培养。我们觉得硕士和博士在做学术方面是没有太大区别的。我们组最优秀的硕士，已经发表了4篇顶会加1篇顶刊，实际上已经达到了很多博士的水准。”IIAU实验室并不会去完全区分谁是硕士，谁是博士，或是说谁做主力，谁打下手。但由于学制时间的问题，博士生的时间相对更多一些。因此，成熟一些的博士生就会去尝试一些以前没做过的、创新性的问题。而经验不丰富的学生则负责一些熟悉的主题，使得他能有一个快速的成长。但是如果能力很强且经验丰富的话，硕士生也能尝试一些新的主题。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" width="1024" height="482" src="http://10.7.146.193:8000/wp-content/uploads/2022/04/vot4-5-1024x482.jpg" alt="" class="wp-image-1086" srcset="/https://kae1111.github.io/wp-content/uploads/2022/04/vot4-5-1024x482.jpg 1024w, /https://kae1111.github.io/wp-content/uploads/2022/04/vot4-5-300x141.jpg 300w, /https://kae1111.github.io/wp-content/uploads/2022/04/vot4-5-768x361.jpg 768w, /https://kae1111.github.io/wp-content/uploads/2022/04/vot4-5.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+<p>图注：卢湖川老师在做学术报告随着国内计算机视觉技术的飞速发展，中国学生在计算机视觉学术科研方面不仅是说与国际接轨，而是走在了世界的前列。有越来越多的学生在读研读博的时候，都选择了在国外实验室进行进一步的深造。因此，CV圈出现了一个这样的疑问：在国外的实验室读博含金量是否会更高？“任何一个地方都有他的优势与劣势，关键是看加入的团队。”卢教授说，“硕士生和博士生学术上的成功与导师是有很大关系的。国内现在有很多组都做的很好，选择这些组能大大提升你成功的几率。当然，能加入国外一流的组织的话是非常好的，也可以拓展丰富个人阅历，但是大家不能为了出国而出国。当学生博士毕业后，无论是想加入学术界还是工业界，主要看重的都是他的学术成果。如果没有好的成果，即使是从好的团队出身，也是没有竞争力的。”</p>
+
+
+
+<p><em><strong>05</strong></em></p>
+
+
+
+<p><strong>洞察前沿观点</strong></p>
+
+
+
+<p>在访谈的最后，卢教授为我们分享了关于他目前主要研究领域，即显著性目标检测和目标跟踪领域目前存在的问题，以及未来发展应用方面，非常有深度的学术观点：</p>
+
+
+
+<p>在跟踪方面，目前距离工业界的需求还有很大的差距。而检测相关的技术发展迅速，并受到了学术界和工业界广泛的认可。因此，检测在实际应用方面相对跟踪而言影响力要多一些。实际上检测若和跟踪的结合才应该是完美的解决方案，但是由于跟踪本身的精度、稳定性、包括速度都没有到成熟的阶段，所以导致很多实际问题并不能很好的解决。我们在这一领域研究了很久，就感受到，目前跟踪真正说在哪块有很好的应用，现在还真没有看到。所以说跟踪要迈向实用，还有很大的空间。</p>
+
+
+
+<p>而在显著性目标检测方面，目前在一些简单的背景下，效果还可以，但是当背景稍微复杂一些后，我们就发现显著性目标检测表现不佳。再加上现在视频的显著性目标分割的需求越来越大，那么如何保持在视频中得到稳定显著性目标分割，就成为了一个难题，这实际上也是时间连续性的问题。这些都是目前显著性目标检测所存在的一些核心要解决的问题，当这些问题真的解决了之后，那么对于真正的实际应用就会有很多的帮助。</p>
+
+
+
+<p><em><strong>06</strong></em></p>
+
+
+
+<p><strong>学者介绍</strong></p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img src="http://10.7.146.193:8000/wp-content/uploads/2022/03/lu-2.jpg" alt="" class="wp-image-120"/></figure></div>
+
+
+<p>卢湖川，国家杰出青年基金获得者，大连理工大学信息与通信工程学院教授、博士生导师。近年来主要从事图像处理与理解、计算机视觉、模式识别和机器学习方面的教学与科研工作。迄今已在国际期刊/国际会议上发表学术论文200余篇， Google Scholar他引22000余次。致力于培养学生，2人获得中国图像学会优秀博士论文，1人获得中国人工智能学会优秀博士论文，1人获得辽宁省优秀博士论文提名，多人获得辽宁省优秀硕士学位论文。有广泛的国际合作，和美国加州大学UC Merced，新加坡国立（NUS），香港中文（CUHK）等高校，以及著名国际企业Adobe，Omron，Fidelity， Huawei，Baidu，Alibaba，Tecent等有项目合作。IIAU-LAB主页：<br>http://ice.dlut.edu.cn/lu/index.html<br>联系邮箱：<br>lhchuan@dlut.edu.cn</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>8篇论文被ECCV 2020接收</title>
+		<link>/https://kae1111.github.io/2020/08/23/iiau8pianlunwenbeieccv2020jieshou/</link>
+		
+		<dc:creator><![CDATA[iiau]]></dc:creator>
+		<pubDate>Sun, 23 Aug 2020 07:58:00 +0000</pubDate>
+				<category><![CDATA[中文新闻]]></category>
+		<guid isPermaLink="false">http://10.7.52.67:8000/?p=1065</guid>
+
+					<description><![CDATA[赵晓琪同学的论文Suppress and Balance: A Simple Gated Netwo&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>赵晓琪同学的论文Suppress and Balance: A Simple Gated Network for Salient Object Detection及A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection。</p>
+
+
+
+<p>王立君老师的论文：CLIFFNet for Monocular Depth Estimation with Hierarchical Embedding Loss。</p>
+
+
+
+<p>庞有伟同学的论文：Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection。</p>
+
+
+
+<p>张淼老师的论文：Asymmetric Two-Stream Architecture for Accurate RGB-D Saliency Detection。</p>
+
+
+
+<p>季伟同学的论文：Accurate RGB-D Salient Object Detection via Collaborative Learning。</p>
+
+
+
+<p>张璐老师的论文：Unsupervised Video Object Segmentation with Joint Hotspot Tracking。</p>
+
+
+
+<p>曾昱同学的论文：High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling。</p>
+
+
+
+<p>祝贺以上同学和老师！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>IIAU获CVPR最佳论文提名和VOT竞赛3项冠军</title>
+		<link>/https://kae1111.github.io/2020/06/24/iiauhuocvprzuijialunwentiminghevotjingsai3xiangguanjun/</link>
+		
+		<dc:creator><![CDATA[iiau]]></dc:creator>
+		<pubDate>Wed, 24 Jun 2020 07:57:00 +0000</pubDate>
+				<category><![CDATA[中文新闻]]></category>
+		<guid isPermaLink="false">http://10.7.52.67:8000/?p=1063</guid>
+
+					<description><![CDATA[近日，在国际计算机视觉顶级会议CVPR（IEEE Conference on Computer Vi&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>近日，在国际计算机视觉顶级会议CVPR（IEEE Conference on Computer Vision and Pattern Recognition）上，我校电子信息与电气工程学部信息与通信工程学院卢湖川教授团队成果荣获CVPR2020最佳论文提名。</p>
+
+
+
+<p>计算机视觉是人工智能最热门的研究领域，CVPR是该领域最有影响力的会议， 从Google学术影响力排行榜可以看到， 该会议处于第10位（Nature、Science分别排名第1、3位）。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://news.dlut.edu.cn/__local/C/A6/14/CC5965607E7AD60E997F993E014_6D74DAF6_1A594.png" alt=""/></figure></div>
+
+
+<p>本届CVPR共接收6656篇投稿，录用1470篇，录用率22.09%，其中最佳论文提名26篇，录用率仅为0.39%。该成果第一作者是我校信通学院硕士代克楠，指导教师为王栋、李建华、卢湖川。此外，由卢湖川教授领导的IIAU实验室今年共有8篇论文被CVPR2020录用，其他指导教师包括张立和、朴永日等。</p>
+
+
+
+<p>除此之外，IIAU团队在目标跟踪最权威的国际竞赛&#8211;VOT2020中斩获三个冠军！本届VOT竞赛有五个赛道，其中长时赛道、实时赛道和深度赛道冠军分别由我校硕士生代克楠、严彬、王英明获得！</p>
+
+
+
+<p>这已经是IIAU团队连续第四年在VOT取得冠军——VOT2019由硕士生代克楠取得长时赛道冠军，VOT2018由硕士张允华取得长时赛道冠军，VOT2017由博士孙冲取得公开组第一名。</p>
+
+
+
+<p>本次获得最佳论文提名论文简介：High-Performance Long-Term Tracking with Meta-Updater</p>
+
+
+
+<p>近年来，长时跟踪由于更贴近实际应用而逐渐引起关注。而在长时跟踪中，由于视频非常长，并且还有大量的消失出境等挑战，使得在线更新充满了风险，这也导致很多在短时跟踪SOTA的算法在长时跟踪里表现不好。该论文提出了一个长时更新控制器，将在线跟踪获取的几何信息、判别信息、外观信息进行时序封装，送入长短期记忆网络，之后做一个二分类，来判断当前跟踪状态是否可以更新。</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://news.dlut.edu.cn/__local/8/53/15/43D8932635C92EC119EE2F3FDB3_16542CC8_5574B.png" alt=""/></figure></div>
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://news.dlut.edu.cn/__local/E/79/77/45F9EFF6F5BD341341E19D0DD2E_D1FFF8D7_216FC.png" alt=""/></figure></div>
+
+
+<p>另外，该论文还提出了一个长时跟踪框架，由短时跟踪器、更新控制器、全图检测器以及验证器组成，由短时跟踪器进行本地跟踪，目标丢失时，用全图检测器检测候选目标，验证器判断，更新控制器控制短时跟踪器和验证器的更新。各模块相对独立，该方案使得长时跟踪的性能可以更好地受益于短时跟踪器，全图检测器等发展。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>代克楠同学的论文荣获CVPR2020 Best Paper Award Nominee</title>
+		<link>/https://kae1111.github.io/2020/06/19/iiaudaikenantongxuedelunwenronghuocvpr2020bestpaperawardnomi/</link>
+		
+		<dc:creator><![CDATA[iiau]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2020 07:56:00 +0000</pubDate>
+				<category><![CDATA[中文新闻]]></category>
+		<guid isPermaLink="false">http://10.7.52.67:8000/?p=1061</guid>
+
+					<description><![CDATA[代克楠同学的论文High-Performance Long-Term Tracking with M&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>代克楠同学的论文High-Performance Long-Term Tracking with Meta-Updater, CVPR2020[Oral]荣获CVPR2020 Best Paper Award Nominee。 </p>
+
+
+
+<p>祝贺代克楠同学！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>8篇论文被CVPR 2020接收</title>
+		<link>/https://kae1111.github.io/2020/06/14/iiau8pianlunwenbeicvpr2020jieshou/</link>
+		
+		<dc:creator><![CDATA[iiau]]></dc:creator>
+		<pubDate>Sun, 14 Jun 2020 07:56:00 +0000</pubDate>
+				<category><![CDATA[中文新闻]]></category>
+		<guid isPermaLink="false">http://10.7.52.67:8000/?p=1059</guid>
+
+					<description><![CDATA[代克楠同学的论文：High-Performance Long-Term Tracking with &#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>代克楠同学的论文：High-Performance Long-Term Tracking with Meta-Updater, CVPR2020[Oral]。</p>
+
+
+
+<p>颜斌同学的论文：Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises。</p>
+
+
+
+<p>王立君老师的论文：SDC-Depth: Semantic Divide-and-Conquer Network for Monocular Depth Estimation。</p>
+
+
+
+<p>朴永日老师的论文：A2dele: Adaptive and Attentive Depth Distiller for Efficient RGB-D Salient Object Detection。</p>
+
+
+
+<p>张淼老师的论文：Select, Supplement and Focus for RGB-D Saliency Detection。</p>
+
+
+
+<p>高尚同学的论文：Pose-guided Visible Part Matching for Occluded Person ReID。</p>
+
+
+
+<p>庞有伟同学的论文：Multi-scale Interactive Network for Salient Object Detection。</p>
+
+
+
+<p>胡志伟同学的论文：Bi-directional Relationship Inferring Network for Referring Image Segmentation。</p>
+
+
+
+<p>祝贺以上同学和老师！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>朴永日老师的论文被AAAI 2020接收</title>
+		<link>/https://kae1111.github.io/2020/02/07/iiaupuyongrilaoshidelunwenbeiaaai2020jieshou/</link>
+		
+		<dc:creator><![CDATA[iiau]]></dc:creator>
+		<pubDate>Fri, 07 Feb 2020 07:55:00 +0000</pubDate>
+				<category><![CDATA[中文新闻]]></category>
+		<guid isPermaLink="false">http://10.7.52.67:8000/?p=1057</guid>
+
+					<description><![CDATA[朴永日老师的论文：Exploit and Replace: An Asymmetrical Two-&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>朴永日老师的论文：Exploit and Replace: An Asymmetrical Two-Stream Architecture for Versatile Light Field Saliency Detection被AAAI 2020接收。</p>
+
+
+
+<p>祝贺朴永日老师！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

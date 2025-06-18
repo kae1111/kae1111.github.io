@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>IIAU-LAB</title>
+	<atom:link href="http://10.7.39.200/en/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://kae1111.github.io/</link>
+	<description>大连理工大学智能图像分析实验室</description>
+	<lastBuildDate>Sun, 12 Jun 2022 06:27:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>6 Papers Were Accepted to CVPR 2022</title>
+		<link>/https://kae1111.github.io/en/2022/03/31/1300/</link>
+		
+		<dc:creator><![CDATA[iiau]]></dc:creator>
+		<pubDate>Thu, 31 Mar 2022 13:12:00 +0000</pubDate>
+				<category><![CDATA[英文新闻]]></category>
+		<guid isPermaLink="false">http://10.7.52.67:8000/?p=1300</guid>
+
+					<description><![CDATA[Zhang Peng-Yu&#8217;s paper：Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline. Pang You-Wei’s paper：Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection. Prof. Jia Xu’s two papers：TimeReplayer: Unlocking the Potential of Event Cameras for Video Interpolation and Look Back and Forth: Video Super-Resolution with Explicit Temporal Difference&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Zhang Peng-Yu&#8217;s paper：Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline.</p>
+
+
+
+<p>Pang You-Wei’s paper：Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection. </p>
+
+
+
+<p>Prof. Jia Xu’s two papers：TimeReplayer: Unlocking the Potential of Event Cameras for Video Interpolation and Look Back and Forth: Video Super-Resolution with Explicit Temporal Difference Modeling. </p>
+
+
+
+<p>Dr. Wang Yi-Fan’s paper：Multi-Source Uncertainty Mining for Deep Unsupervised Saliency Detection.</p>
+
+
+
+<p>Liu Suai’s paper： Multi-Object Tracking Meets Moving UAV. </p>
+
+
+
+<p>Congratulations to the above students and teachers！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>2 Papers Were Accepted to AAAI 2022</title>
+		<link>/https://kae1111.github.io/en/2022/02/22/iiau2pianlunwenbeiaaai2022jieshou2/</link>
+		
+		<dc:creator><![CDATA[iiau]]></dc:creator>
+		<pubDate>Tue, 22 Feb 2022 04:30:00 +0000</pubDate>
+				<category><![CDATA[英文新闻]]></category>
+		<guid isPermaLink="false">http://10.7.52.67:8000/2022/05/29/iiau-2%e7%af%87%e8%ae%ba%e6%96%87%e8%a2%abaaai-2022%e6%8e%a5%e6%94%b6-2/</guid>
+
+					<description><![CDATA[Zhao Xiao-Qi’s: Self-Supervised Pretraining for RGB-D Salient Object Detection. Li De-Zhuang’s paper：You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation。 Congratulations to the above students！]]></description>
+										<content:encoded><![CDATA[
+<p>Zhao Xiao-Qi’s: Self-Supervised Pretraining for RGB-D Salient Object Detection. </p>
+
+
+
+<p>Li De-Zhuang’s paper：You Only Infer Once: Cross-Modal Meta-Transfer for Referring Video Object Segmentation。</p>
+
+
+
+<p>Congratulations to the above students！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>7 Papers Were Accepted to ICCV 2021</title>
+		<link>/https://kae1111.github.io/en/2021/10/11/iiau7pianlunwenbeiiccv2021jieshou2/</link>
+		
+		<dc:creator><![CDATA[iiau]]></dc:creator>
+		<pubDate>Mon, 11 Oct 2021 05:02:00 +0000</pubDate>
+				<category><![CDATA[英文新闻]]></category>
+		<guid isPermaLink="false">http://10.7.52.67:8000/2022/05/29/iiau-7%e7%af%87%e8%ae%ba%e6%96%87%e8%a2%abiccv-2021%e6%8e%a5%e6%94%b6-2/</guid>
+
+					<description><![CDATA[Zeng Yu’s paper: CR-Fill: Generative Image Inpainting with Auxiliary Contextual Reconstruction. &#160; Yan Bin’s paper：Learning Spatio-Temporal Transformer for Visual Tracking. Prof. Piao Yong-Ri’s paper：MFNet: Multi-filter Directive Network for Weakly Supervised Salient Object Detection. Prof. Zhang Miao’s paper: DCFNet: Dynamic Context-Sensitive Filtering Network for Video Salient Object Detection. Prof. Wang Li-Jun’s&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Zeng Yu’s paper: CR-Fill: Generative Image Inpainting with Auxiliary Contextual Reconstruction. &nbsp;</p>
+
+
+
+<p>Yan Bin’s paper：Learning Spatio-Temporal Transformer for Visual Tracking. </p>
+
+
+
+<p>Prof. Piao Yong-Ri’s paper：MFNet: Multi-filter Directive Network for Weakly Supervised Salient Object Detection. </p>
+
+
+
+<p>Prof. Zhang Miao’s paper: DCFNet: Dynamic Context-Sensitive Filtering Network for Video Salient Object Detection. </p>
+
+
+
+<p>Prof. Wang Li-Jun’s paper：Can Scale-Consistent Monocular Depth Be Learned in a Self-Supervised Scale-Invariant Manner? &nbsp;</p>
+
+
+
+<p>Dai Ke-Nan’s paper：Video Annotation for Visual Tracking via Selection and Refinement. </p>
+
+
+
+<p>Yang Shu’s paper: Learning Motion-Appearance Co-Attention for Zero-Shot Video Object Segmentation. </p>
+
+
+
+<p>Congratulations to the above students and teachers！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>9 Papers Were Accepted to CVPR 2021</title>
+		<link>/https://kae1111.github.io/en/2021/06/19/iiau9pianlunwenbeicvpr2021jieshou2/</link>
+		
+		<dc:creator><![CDATA[iiau]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 05:03:00 +0000</pubDate>
+				<category><![CDATA[英文新闻]]></category>
+		<guid isPermaLink="false">http://10.7.52.67:8000/2022/05/29/iiau-9%e7%af%87%e8%ae%ba%e6%96%87%e8%a2%abcvpr-2021%e6%8e%a5%e6%94%b6-2/</guid>
+
+					<description><![CDATA[Chen Xin’s paper：Transformer Tracking. Yan Bin’s two papers：Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation and LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search. Dr. Zhao Wen-Da’s paper：Self-generated Defocus Blur Detection via Dual Adversarial Discriminators. Huang Tao’s paper：Neighbor2Neighbor: Self-Supervised Denoising from Single Noisy Image. Prof.&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Chen Xin’s paper：Transformer Tracking. Yan Bin’s two papers：Alpha-Refine: Boosting Tracking Performance by Precise Bounding Box Estimation and LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search. </p>
+
+
+
+<p>Dr. Zhao Wen-Da’s paper：Self-generated Defocus Blur Detection via Dual Adversarial Discriminators. </p>
+
+
+
+<p>Huang Tao’s paper：Neighbor2Neighbor: Self-Supervised Denoising from Single Noisy Image. </p>
+
+
+
+<p>Prof. Jia Xu’s paper：Multi-Target Domain Adaptation with Collaborative Consistency Learning. </p>
+
+
+
+<p>Feng Guang’s paper：Encoder Fusion Network with Co-Attention Embedding for Referring Image Segmentation. </p>
+
+
+
+<p>Ji Wei’s paper：Calibrated RGB-D Salient Object Detection. </p>
+
+
+
+<p>Dr.Liu Xue-Hu’s paper：Watching You: Global-guided Reciprocal Learning for Video-based Person Re-identification. </p>
+
+
+
+<p>Congratulations to the above students and teachers！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>IIAU Won the VOT for Four Consecutive Years</title>
+		<link>/https://kae1111.github.io/en/2021/01/10/iiauchanliansinianvotguanjun2/</link>
+		
+		<dc:creator><![CDATA[iiau]]></dc:creator>
+		<pubDate>Sun, 10 Jan 2021 05:03:00 +0000</pubDate>
+				<category><![CDATA[英文新闻]]></category>
+		<guid isPermaLink="false">http://10.7.52.67:8000/2022/05/29/iiau%e8%9d%89%e8%81%94%e5%9b%9b%e5%b9%b4vot%e5%86%a0%e5%86%9b-2/</guid>
+
+					<description><![CDATA[In the summer of 2020, the international visual target tracking competition vot2020 jointly organized by the top computer vision conference ECCV came to an end. The iiau laboratory led by Professor luhuchuan and Professor Wang Dong of Dalian University of technology won three track Titles: long-term, real-time and in-depth, which&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>In the summer of 2020, the international visual target tracking competition vot2020 jointly organized by the top computer vision conference ECCV came to an end. The iiau laboratory led by Professor luhuchuan and Professor Wang Dong of Dalian University of technology won three track Titles: long-term, real-time and in-depth, which were won by Dai Kenan, Yanbin and Wangyingming, master students of Dalian University of Technology, respectively.</p>
+
+
+
+<p>This is the fourth consecutive year that the iiau team has won the championship in VOT &#8211; vot2019 won the long-term track championship by master Dai Kenan, vot2018 won the long-term track championship by Master Zhang Yunhua, and vot2017 won the first place in the open group by Dr. Sun Chong.</p>
+
+
+
+<p>Visual object tracking challenge (VOT) is regarded as the most difficult competition in the field of visual tracking, which far exceeds other data sets. The VOT evaluation sequence is updated every year, and the annotation accuracy is also improved year by year. Professor Lu Hu-Chuan&#8217;s team has been deeply engaged in relevant research in the field of target tracking. Many years ago, on the online object tracking benchmark (OTB), Professor Lu&#8217;s team had two methods that always ranked second and third. In recent years, with the gradual rise of international competitions such as VOT in China, more and more scholars began to participate in them.</p>
+
+
+
+<figure class="wp-block-image size-large"><img width="1024" height="520" src="http://10.7.146.193:8000/wp-content/uploads/2022/06/luvot1-1024x520.jpg" alt="" class="wp-image-1455" srcset="/https://kae1111.github.io/wp-content/uploads/2022/06/luvot1-1024x520.jpg 1024w, /https://kae1111.github.io/wp-content/uploads/2022/06/luvot1-300x152.jpg 300w, /https://kae1111.github.io/wp-content/uploads/2022/06/luvot1-768x390.jpg 768w, /https://kae1111.github.io/wp-content/uploads/2022/06/luvot1.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Since 2017, Professor luhuchuan will lead his iiau laboratory to participate in the annual VOT competition after iccv/eccv submission in March every year. In the first year, iiau laboratory made outstanding achievements: on vot2017, the algorithm lsart of doctoral student sun Chong defeated international famous AI laboratories and famous universities such as Oxford University, Carnegie Mellon University and Microsoft Research Asia, and won the first place in the open group. &#8220;At that time, all previous visual target tracking methods focused on the short-term direction. When VOT raised the issue of long-term target tracking, we felt that long-term tracking was indeed required in the real world. Therefore, this issue is very important, and we aimed at this first.&#8221;</p>
+
+
+
+<p>Each video of the long-term challenge is about 2000 to 20000 frames, and the tracked target frequently leaves the field of view and then reappears. Therefore, the tracking algorithm must have the ability to judge whether the target appears in the current frame and search the target in the whole image. As a new research problem, iiau laboratory has put forward a good solution to this problem: mbmd, using a matching based regression network and a classification based verification network, has greatly improved the fusion mechanism of detection and tracking.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="725" height="1024" src="http://10.7.146.193:8000/wp-content/uploads/2022/06/luvot2-725x1024.jpg" alt="" class="wp-image-1456" srcset="/https://kae1111.github.io/wp-content/uploads/2022/06/luvot2-725x1024.jpg 725w, /https://kae1111.github.io/wp-content/uploads/2022/06/luvot2-212x300.jpg 212w, /https://kae1111.github.io/wp-content/uploads/2022/06/luvot2-768x1085.jpg 768w, /https://kae1111.github.io/wp-content/uploads/2022/06/luvot2.jpg 1080w" sizes="(max-width: 725px) 100vw, 725px" /></figure>
+
+
+
+<p>MBMD algorithm won the champion of the first VOT long term challenge in 2018. It is worth mentioning that with the champion of this competition and the thesis of ECCV, Zhang Yunhua, the first author of MBMD and the master student of IIAU laboratory, gave her a full doctoral scholarship after giving a speech on the conference report at the award ceremony, Fair (Facebook artificial intelligence research), one of the best research institutes in the field of artificial intelligence, also invited her to work.</p>
+
+
+
+<p>On June 16 this year, the world&#8217;s top academic conference CVPR virtual 2020 in the field of computer vision and pattern recognition officially kicked off online. The paper &#8220;high performance long term tracking with meta updater&#8221; directed by Professor Lu Huchuan and Professor Wang Dong won the nomination for the best article in cvpr2020. In addition, a total of 8 papers of iiau laboratory were recruited by cvpr2020 this year.</p>
+
+
+
+<p>One of the papers nominated for the best paper of cvpr2020 is Dai Kenan, a master of iiau laboratory. This is not the only honor he won after joining iiau laboratory. In 2019, Dai Kenan&#8217;s first paper was admitted as the oral paper of cvpr2019, and he won the title of vot2019 and vot2020 long-term track back to back. This year, he was selected into Huawei&#8217;s talent youth program and became the only winner in the northeast region.</p>
+
+
+
+<p>&#8220;When Dai Kenan was escorted to our laboratory, he showed a spirit of studying target tracking algorithms and a strong sense of self-improvement. He also had his own rhythm,&#8221; Professor Lu said, &#8220;When he first entered the laboratory, he mainly cooperated with his senior sister zhangyunhua, the winner of the vot2018 champion. With the help of zhangyunhua, he quickly learned the basic knowledge and skills of target tracking. Later, he joined the VOT together, and Dai Kenan was trained and promoted in this project. After zhangyunhua graduated, he won the long term challenge twice.&#8221;</p>
+
+
+
+<p>The success of iiau lab is based on the way that experts gather in the lab, help each other, and help the old to bring the new.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="520" src="http://10.7.146.193:8000/wp-content/uploads/2022/06/luvot3-1024x520.jpg" alt="" class="wp-image-1457" srcset="/https://kae1111.github.io/wp-content/uploads/2022/06/luvot3-1024x520.jpg 1024w, /https://kae1111.github.io/wp-content/uploads/2022/06/luvot3-300x152.jpg 300w, /https://kae1111.github.io/wp-content/uploads/2022/06/luvot3-768x390.jpg 768w, /https://kae1111.github.io/wp-content/uploads/2022/06/luvot3.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>In Professor Lu Huchuan&#8217;s team, every new student will be cultivated with great care. &#8220;Every rookie comes with dreams, so we attach great importance to the cultivation of new team members.&#8221; Professor Lu said.</p>
+
+
+
+<p>In the early stage, Mr. Lu will give personal guidance and assign homework to the students. Through constant iteration and short-term goal setting, students&#8217; ability can be improved, and they can&#8217;t slack off all the time. In this way, after about a year of training, students&#8217; ability will be significantly improved. At the same time, in this training process, we will also pay attention to the cultivation of academic research interest. After the initial training, many students are determined to publish top-level papers like elder martial brothers and sisters, and complete their academic tasks as their own. In this way, they are on the right track. At this time, the management role of teachers will be weakened, and more will be to discuss with students academically and guide them to move forward in the academic direction.</p>
+
+
+
+<p>IIAU laboratory will have excellent students in every class, and these excellent students will become an example and motivation for freshmen. When solving practical problems, freshmen and seniors will form a team under the organization of Professor Lu to conduct research together. In this way, the potential of all people can be stimulated as much as possible.</p>
+
+
+
+<p>&#8220;It&#8217;s not easy for students. They all want to make progress, but due to different routes, if they encounter difficulties in the research process, they may have different self-confidence in their own abilities. Therefore, as teachers, it is necessary to design a path of rapid growth for them.&#8221; Professor Lu said, &#8220;In fact, it is not the students who publish papers that are the best. Many students who have not published papers are also very excellent. Just because the papers are reviewed by reviewers, reviewers in different fields have different review styles. Some students&#8217; papers may not be recognized by reviewers, so they have not been published. However, this does not mean that they are not excellent. Enterprises also need to consider these factors when selecting talents 。”</p>
+
+
+
+<p>In the industrial sector, iiau laboratory has also received great attention from peers at home and abroad. It has successively carried out project cooperation with Omron in Japan, Adobe and Microsoft in the United States, Huawei, Baidu, Alibaba, Tencent, oppo and other well-known enterprises at home and abroad.</p>
+
+
+
+<p>At present, there are two forms of cooperation between iiau laboratories and enterprises. The first is to send students to intern in the company. Generally, the internship lasts for three months. The goal is to send a paper for a top-level conference. The second is remote. The company and teachers jointly guide students. There will be regular network meetings every week to quickly promote the progress of the project. In the process of such communication, students&#8217; academic level and English skills can be better improved. In cooperation with enterprises, students have great enthusiasm and motivation. Through these two kinds of internships, the members of iiau have become very clear about their needs and have a deep understanding of the project. In addition, with their own initiative and the guidance of teachers, they have reached successful cooperation with the company again and again. From the enterprise level, it has not only solved the problems, but also obtained the candidates of employees. From the perspective of students, there is always some slack in the laboratory, but in the company, it can improve the efficiency and get a very rapid improvement. At the same time, it can help the rapid transmission of industrial demand, enable the iiau team to add to the academic research and talent reserve of the layout in terms of demand, accumulate a lot of experience, and understand and master the comprehensive knowledge from academia to industry. This is a win-win situation for the company and the school.</p>
+
+
+
+<p>Professor luhuchuan is now full of talents and talents, and iiau laboratory is continuously sending talents in the field of artificial intelligence to the academic and industrial circles. How do I become a member of the iiau team? What do Professor Lu expect from students who join iiau? These problems have become the doubts of many scholars.</p>
+
+
+
+<p>&#8220;Our requirements for students are not so high, as long as there is a strong sense of self-improvement is enough.&#8221; Professor Lu said, &#8220;the threshold for doing computer vision is not high. Although there are some requirements for programming, mathematics and English, this is the ability that most students have. Therefore, the core problem is whether the student is motivated and wants to become excellent.&#8221;</p>
+
+
+
+<p>In the course of each guarantee research, many students with good performance joined other better schools. Professor Lu did not take these things to heart, but wished them a smooth study and a colorful life experience. Although Mr. Lu also hopes that they can join his own laboratory, he thinks that academic performance can not represent all. That is to say, iiau does not only focus on academic performance, but also pays more attention to students&#8217; self-motivated in academic or engineering practice. Such students are the best students. With the careful training and guidance of teachers, new members of iiau will grow rapidly in the team.</p>
+
+
+
+<p>In fact, some of the students who join the iiau laboratory may be the first or second in the grade, but the vast majority of them are in the middle position in the graduate school entrance examination. However, after these students joined iiau, they all became positive and motivated through the training and Inspiration of Professor Lu and the teachers of iiau laboratory. The person who runs fast in front will encourage the person behind to work harder, and then everyone will make progress together.</p>
+
+
+
+<p>In the iiau laboratory, both undergraduate students, master students and doctoral students can get the best training.</p>
+
+
+
+<p>&#8220;The students who come to iiau come with dreams. The teacher&#8217;s greatest responsibility is to help them realize their dreams and pursue bigger dreams.&#8221; Professor Lu said, &#8220;Every Master student who joins iiau will be trained as a doctoral student. We don&#8217;t think there is much difference between a master and a doctor in academic work. The best master in our group has published four top conferences and one top journal, which has actually reached the level of many doctors.&#8221;</p>
+
+
+
+<p>Iiau laboratory will not completely distinguish who is the master and who is the doctor, or who is the main force and who is the first. However, due to the length of schooling, doctoral students have more time. Therefore, more mature doctoral students will try some innovative problems that have not been done before. The inexperienced student is responsible for some familiar topics, so that he can have a rapid growth. However, if they are competent and experienced, they can also try some new topics.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="482" src="http://10.7.146.193:8000/wp-content/uploads/2022/06/luvot4-1024x482.jpg" alt="" class="wp-image-1458" srcset="/https://kae1111.github.io/wp-content/uploads/2022/06/luvot4-1024x482.jpg 1024w, /https://kae1111.github.io/wp-content/uploads/2022/06/luvot4-300x141.jpg 300w, /https://kae1111.github.io/wp-content/uploads/2022/06/luvot4-768x361.jpg 768w, /https://kae1111.github.io/wp-content/uploads/2022/06/luvot4.jpg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>With the rapid development of computer vision technology in China, Chinese students are not only in line with international standards in computer vision academic research, but also in the forefront of the world. More and more students choose to further study in foreign laboratories when they are studying for postgraduate and doctoral degrees. Therefore, there is a question in the CV circle: will the gold content of doctoral studies in foreign laboratories be higher?</p>
+
+
+
+<p>&#8220;Every place has its advantages and disadvantages. The key is to look at the team you join.&#8221; Professor Lu said, &#8220;The academic success of master and doctoral students has a lot to do with their tutors. There are many groups doing well in China, and choosing these groups can greatly improve your chances of success. Of course, it is very good to join a foreign first-class organization, and you can also expand your personal experience, but you can&#8217;t go abroad for the sake of going abroad. When a student graduates from the doctoral program, he or she wants to join the academic or industrial circles, he or she mainly values It is his academic achievement. If there is no good result, even if you come from a good team, you will not be competitive. &#8220;</p>
+
+
+
+<p>At the end of the interview, Professor Lu shared with us his in-depth academic views on the current problems in his main research fields, namely, salient target detection and target tracking, as well as the future development and application:</p>
+
+
+
+<p>In terms of tracking, there is still a big gap from the demand of the industry. The detection related technology has developed rapidly, and has been widely recognized by the academic and industrial circles. Therefore, detection has more influence in practical application than tracking. In fact, the combination of detection and tracking should be the perfect solution. However, because the accuracy, stability and speed of tracking itself are not mature, many practical problems cannot be well solved. We have studied this field for a long time, and we feel that we haven&#8217;t seen any good applications in tracking. So there is still a lot of room for tracking to be practical.</p>
+
+
+
+<p>In the aspect of significant target detection, the effect is OK under some simple backgrounds, but when the background is a little more complex, we find that the performance of significant target detection is poor. In addition, the demand for video saliency target segmentation is growing, so how to maintain stable saliency target segmentation in video has become a difficult problem, which is also a problem of time continuity. These are some core problems to be solved in salient target detection. When these problems are really solved, they will be of great help to the real practical application.</p>
+
+
+
+<p>Introduction to scholars</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="294" height="420" src="http://10.7.146.193:8000/wp-content/uploads/2022/06/luvot5.png" alt="" class="wp-image-1461" srcset="/https://kae1111.github.io/wp-content/uploads/2022/06/luvot5.png 294w, /https://kae1111.github.io/wp-content/uploads/2022/06/luvot5-210x300.png 210w" sizes="(max-width: 294px) 100vw, 294px" /></figure>
+
+
+
+<p>Luhuchuan, winner of national fund for Distinguished Young Scholars, professor and doctoral supervisor of School of information and communication engineering, Dalian University of technology. In recent years, he has mainly engaged in teaching and scientific research in image processing and understanding, computer vision, pattern recognition and machine learning. So far, he has published more than 200 academic papers in international journals / conferences, and cited by Google Scholar for more than 22000 times.</p>
+
+
+
+<p>Committed to training students, 2 won Excellent Doctoral Dissertation of China imaging society, 1 won Excellent Doctoral Dissertation of China artificial intelligence society, 1 won nomination for Excellent Doctoral Dissertation of Liaoning Province, and many won excellent master&#8217;s thesis of Liaoning Province. It has extensive international cooperation, and has project cooperation with UC Merced, NUS, CUHK and other universities in the United States, as well as famous international enterprises such as adobe, Omron, fidelity, Huawei, Baidu, Alibaba, Tecent, etc.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>8 Papers Were Accepted to ECCV 2020</title>
+		<link>/https://kae1111.github.io/en/2020/08/23/iiau8pianlunwenbeieccv2020jieshou2/</link>
+		
+		<dc:creator><![CDATA[iiau]]></dc:creator>
+		<pubDate>Sun, 23 Aug 2020 05:03:00 +0000</pubDate>
+				<category><![CDATA[英文新闻]]></category>
+		<guid isPermaLink="false">http://10.7.52.67:8000/2022/05/29/iiau-8%e7%af%87%e8%ae%ba%e6%96%87%e8%a2%abeccv-2020%e6%8e%a5%e6%94%b6-2/</guid>
+
+					<description><![CDATA[Zhao Xiao-Qi’s two papers: Suppress and Balance: A Simple Gated Network for Salient Object Detection and A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection. Prof. Wang Li-Jun’s paper: CLIFFNet for Monocular Depth Estimation with Hierarchical Embedding Loss. Pang You-Wei’s paper：Hierarchical Dynamic Filtering Network for RGB-D Salient&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Zhao Xiao-Qi’s two papers: Suppress and Balance: A Simple Gated Network for Salient Object Detection and A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection. </p>
+
+
+
+<p>Prof. Wang Li-Jun’s paper: CLIFFNet for Monocular Depth Estimation with Hierarchical Embedding Loss. </p>
+
+
+
+<p>Pang You-Wei’s paper：Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection. </p>
+
+
+
+<p>Prof. Zhang Miao’s paper：Asymmetric Two-Stream Architecture for Accurate RGB-D Saliency Detection. </p>
+
+
+
+<p>Ji Wei’s paper: Accurate RGB-D Salient Object Detection via Collaborative Learning. </p>
+
+
+
+<p>Dr Zhang Lu’s paper: Unsupervised Video Object Segmentation with Joint Hotspot Tracking. </p>
+
+
+
+<p>Zeng Yu’s paper: High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling.</p>
+
+
+
+<p>Congratulations to the above students and teachers！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>IIAU Was Nominated for the best paper of CVPR and Won Three Titles of VOT</title>
+		<link>/https://kae1111.github.io/en/2020/06/24/iiauhuocvprzuijialunwentiminghevotjingsai3xiangguanjun2/</link>
+		
+		<dc:creator><![CDATA[iiau]]></dc:creator>
+		<pubDate>Wed, 24 Jun 2020 05:03:00 +0000</pubDate>
+				<category><![CDATA[英文新闻]]></category>
+		<guid isPermaLink="false">http://10.7.52.67:8000/2022/05/29/iiau%e8%8e%b7cvpr%e6%9c%80%e4%bd%b3%e8%ae%ba%e6%96%87%e6%8f%90%e5%90%8d%e5%92%8cvot%e7%ab%9e%e8%b5%9b3%e9%a1%b9%e5%86%a0%e5%86%9b-2/</guid>
+
+					<description><![CDATA[Recently, at the international computer vision summit CVPR (IEEE Conference on computer vision and pattern recognition), Professor luhuchuan&#8217;s team achievements of the school of information and communication engineering of the Department of electronic information and electrical engineering of our University won the nomination for the best paper of cvpr2020. Computer&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Recently, at the international computer vision summit CVPR (IEEE Conference on computer vision and pattern recognition), Professor luhuchuan&#8217;s team achievements of the school of information and communication engineering of the Department of electronic information and electrical engineering of our University won the nomination for the best paper of cvpr2020.</p>
+
+
+
+<p>Computer vision is the hottest research field of artificial intelligence. CVPR is the most influential conference in this field. It can be seen from the Google academic influence ranking that the conference ranks 10th (nature and science rank 1st and 3rd respectively).</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://news.dlut.edu.cn/__local/C/A6/14/CC5965607E7AD60E997F993E014_6D74DAF6_1A594.png" alt=""/></figure></div>
+
+
+<p>A total of 6656 submissions were received in this CVPR, 1470 of which were accepted, with an acceptance rate of 22.09%, of which 26 were nominated for the best papers, with an acceptance rate of only 0.39%. The first author of this achievement is Dai Kenan, a master of the school of communication and communications of our university. The instructors are Wang Dong, lijianhua and luhuchuan. In addition, a total of 8 papers of iiau laboratory led by Professor luhuchuan were hired by cvpr2020 this year, and other instructors include zhanglihe, piaoyongri, etc.</p>
+
+
+
+<p>In addition, the iiau team won three championships in vot2020, the most authoritative international competition for target tracking! There are five tracks in this VOT competition, among which the long-term track, real-time track and deep track champions were won by Dai Kenan, Yan Bin and Wang Yingming, our master students respectively!</p>
+
+
+
+<p>This is the fourth consecutive year that the iiau team has won the championship in VOT &#8211; vot2019 won the long-term track championship by master Dai Kenan, vot2018 won the long-term track championship by Master Zhang Yunhua, and vot2017 won the first place in the open group by Dr. Sun Chong. High performance long term tracking with meta Updater.</p>
+
+
+
+<p>In recent years, long-term tracking has attracted more and more attention because it is closer to practical applications. In the long-term tracking, because the video is very long and there are a lot of challenges such as disappearing out of the country, online updates are full of risks, which also leads to the poor performance of many short-term tracking SOTA algorithms in the long-term tracking. In this paper, a long-term update controller is proposed, which encapsulates the geometry information, discrimination information and appearance information obtained by on-line tracking and sends them to the long-term and short-term memory network, and then makes a binary classification to judge whether the current tracking state can be updated.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://news.dlut.edu.cn/__local/8/53/15/43D8932635C92EC119EE2F3FDB3_16542CC8_5574B.png" alt=""/></figure></div>
+
+<div class="wp-block-image">
+<figure class="aligncenter"><img src="https://news.dlut.edu.cn/__local/E/79/77/45F9EFF6F5BD341341E19D0DD2E_D1FFF8D7_216FC.png" alt=""/></figure></div>
+
+
+<p>In addition, this paper also proposes a long-term tracking framework, which is composed of a short-term tracker, an update controller, a full graph detector and a verifier. The short-term tracker is used for local tracking. When the target is lost, the full graph detector is used to detect the candidate target, the verifier judges, and the update controller controls the update of the short-term tracker and the verifier. Each module is relatively independent. This scheme makes the performance of long-term tracking better benefit from the development of short-term tracker and full image detector.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Dai Kenan Won CVPR 2020 Best Paper Award Nominee</title>
+		<link>/https://kae1111.github.io/en/2020/06/19/iiaudaikenantongxuedelunwenronghuocvpr2020bestpaperawardnomi-2/</link>
+		
+		<dc:creator><![CDATA[iiau]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2020 05:03:00 +0000</pubDate>
+				<category><![CDATA[英文新闻]]></category>
+		<guid isPermaLink="false">http://10.7.52.67:8000/2022/05/29/iiau%e4%bb%a3%e5%85%8b%e6%a5%a0%e5%90%8c%e5%ad%a6%e7%9a%84%e8%ae%ba%e6%96%87%e8%8d%a3%e8%8e%b7cvpr2020-best-paper-award-nominee-2/</guid>
+
+					<description><![CDATA[Dai Ke-Nan’s paper: High-Performance Long-Term Tracking with Meta-Updater, CVPR2020[Oral] won CVPR2020 Best Paper Award Nominee. &#160; Congratulations to Dai Ke-Nan！]]></description>
+										<content:encoded><![CDATA[
+<p>Dai Ke-Nan’s paper: High-Performance Long-Term Tracking with Meta-Updater, CVPR2020[Oral] won CVPR2020 Best Paper Award Nominee. &nbsp;</p>
+
+
+
+<p>Congratulations to Dai Ke-Nan！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>8 Papers Were Accepted to CVPR 2020</title>
+		<link>/https://kae1111.github.io/en/2020/06/14/iiau8pianlunwenbeicvpr2020jieshou2/</link>
+		
+		<dc:creator><![CDATA[iiau]]></dc:creator>
+		<pubDate>Sun, 14 Jun 2020 05:03:00 +0000</pubDate>
+				<category><![CDATA[英文新闻]]></category>
+		<guid isPermaLink="false">http://10.7.52.67:8000/2022/05/29/iiau-8%e7%af%87%e8%ae%ba%e6%96%87%e8%a2%abcvpr-2020%e6%8e%a5%e6%94%b6-2/</guid>
+
+					<description><![CDATA[Dai Ke-Nan’s paper：High-Performance Long-Term Tracking with Meta-Updater, CVPR2020[Oral]. Yan Bin’s paper：Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises. Prof. Wang Li-Jun’s paper：SDC-Depth: Semantic Divide-and-Conquer Network for Monocular Depth Estimation. Prof. Piao Yong-Ri’s paper：A2dele: Adaptive and Attentive Depth Distiller for Efficient RGB-D Salient Object Detection. Prof. Zhang Miao’s paper：Select, Supplement and&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Dai Ke-Nan’s paper：High-Performance Long-Term Tracking with Meta-Updater, CVPR2020[Oral]. </p>
+
+
+
+<p>Yan Bin’s paper：Cooling-Shrinking Attack: Blinding the Tracker with Imperceptible Noises. </p>
+
+
+
+<p>Prof. Wang Li-Jun’s paper：SDC-Depth: Semantic Divide-and-Conquer Network for Monocular Depth Estimation. </p>
+
+
+
+<p>Prof. Piao Yong-Ri’s paper：A2dele: Adaptive and Attentive Depth Distiller for Efficient RGB-D Salient Object Detection. </p>
+
+
+
+<p>Prof. Zhang Miao’s paper：Select, Supplement and Focus for RGB-D Saliency Detection. </p>
+
+
+
+<p>Gao Shang’s paper：Pose-guided Visible Part Matching for Occluded Person ReID. </p>
+
+
+
+<p>Pang You-Wei’s paper：Multi-scale Interactive Network for Salient Object Detection. </p>
+
+
+
+<p>Hu Zhi-Wei’s paper：Bi-directional Relationship Inferring Network for Referring Image Segmentation. </p>
+
+
+
+<p>Congratulations to the above students and teachers！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Piao Yong-Ri&#8217;s Paper Was Accepted to AAAI 2020</title>
+		<link>/https://kae1111.github.io/en/2020/02/07/iiaupuyongrilaoshidelunwenbeiaaai2020jieshou2/</link>
+		
+		<dc:creator><![CDATA[iiau]]></dc:creator>
+		<pubDate>Fri, 07 Feb 2020 05:03:00 +0000</pubDate>
+				<category><![CDATA[英文新闻]]></category>
+		<guid isPermaLink="false">http://10.7.52.67:8000/2022/05/29/iiau%e6%9c%b4%e6%b0%b8%e6%97%a5%e8%80%81%e5%b8%88%e7%9a%84%e8%ae%ba%e6%96%87%e8%a2%abaaai-2020%e6%8e%a5%e6%94%b6-2/</guid>
+
+					<description><![CDATA[Prof. Piao Yong-Ri’s paper：Exploit and Replace: An Asymmetrical Two-Stream Architecture for Versatile Light Field Saliency Detection was accepted to AAAI 2020. Congratulations to Prof. Piao Yong-Ri！]]></description>
+										<content:encoded><![CDATA[
+<p>Prof. Piao Yong-Ri’s paper：Exploit and Replace: An Asymmetrical Two-Stream Architecture for Versatile Light Field Saliency Detection was accepted to AAAI 2020. </p>
+
+
+
+<p>Congratulations to Prof. Piao Yong-Ri！</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
